@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "Diamond.csproj", "{E19A319A-9FC0-6963-E248-DD7169E3FFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond.Editor", "Diamond.Editor.csproj", "{017422C6-5E4F-2DA8-584D-963F1C14295D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19A319A-9FC0-6963-E248-DD7169E3FFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19A319A-9FC0-6963-E248-DD7169E3FFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19A319A-9FC0-6963-E248-DD7169E3FFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19A319A-9FC0-6963-E248-DD7169E3FFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017422C6-5E4F-2DA8-584D-963F1C14295D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017422C6-5E4F-2DA8-584D-963F1C14295D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017422C6-5E4F-2DA8-584D-963F1C14295D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017422C6-5E4F-2DA8-584D-963F1C14295D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,2 +1,2 @@
 # Augmented-Reality
-Implimenting concepts of augmented reality
+Implementing concepts of augmented reality
